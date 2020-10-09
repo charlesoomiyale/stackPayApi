@@ -1,0 +1,4 @@
+*   Trying 134.209.188.40:80...
+* TCP_NODELAY set
+* Immediate connect fail for 134.209.188.40: Network is unreachable
+* Closing connection 0

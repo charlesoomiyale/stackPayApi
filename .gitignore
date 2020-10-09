@@ -1,0 +1,6 @@
+/vendor
+/.idea
+.env
+sparkpay.json
+Homestead.json
+Homestead.yaml
